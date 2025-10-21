@@ -171,6 +171,8 @@ We created **6 production-ready examples** that showcase what's possible when in
 
 The agent figures out *how* to solve it. You just provide the *what*.
 
+![Agentic Task Automation Demo](https://raw.githubusercontent.com/Cognitora/Integration-Example-OpenAI-Agents-SDK/main/screencast/demo1.gif)
+
 ### 2️⃣ **Interactive AI Chat** ([2-example-interactive.py](https://github.com/Cognitora/Integration-Example-OpenAI-Agents-SDK/blob/main/2-example-interactive.py))
 
 Natural language interface with real-time code execution:
@@ -195,6 +197,8 @@ AI:  *writes Python code* → *executes* → "$8,954.24"
 
 **Output:** `stock_analysis_20251018_120315.md` with complete analysis, predictions, and actionable insights.
 
+![Stock Market Analyst Demo](https://raw.githubusercontent.com/Cognitora/Integration-Example-OpenAI-Agents-SDK/main/screencast/demo3.gif)
+
 ### 4️⃣ **Live Crypto Tracker** 🌐 ([4-example-live-crypto-tracker.py](https://github.com/Cognitora/Integration-Example-OpenAI-Agents-SDK/blob/main/4-example-live-crypto-tracker.py))
 
 AI agents with internet access—safely:
@@ -204,6 +208,8 @@ AI agents with internet access—safely:
 - 💡 Provides investment advice
 
 **Security note:** Networking is *optional* and *configurable*. Only enable it when needed.
+
+![Live Crypto Tracker Demo](https://raw.githubusercontent.com/Cognitora/Integration-Example-OpenAI-Agents-SDK/main/screencast/demo4.gif)
 
 ### 5️⃣ **Multi-Agent Research System** 🤖 ([5-example-multi-agent-research.py](https://github.com/Cognitora/Integration-Example-OpenAI-Agents-SDK/blob/main/5-example-multi-agent-research.py))
 
@@ -227,6 +233,8 @@ Each agent has specialized knowledge and tools. The orchestrator decides which s
 - A/B test statistical significance
 - Customer segmentation and LTV calculation
 
+![Multi-Agent Research System Demo](https://raw.githubusercontent.com/Cognitora/Integration-Example-OpenAI-Agents-SDK/main/screencast/demo5.gif)
+
 ### 6️⃣ **Data Visualization Pipeline** 📊 ([6-example-data-visualization.py](https://github.com/Cognitora/Integration-Example-OpenAI-Agents-SDK/blob/main/6-example-data-visualization.py))
 
 Complete file upload → analysis → chart generation → download workflow:
@@ -236,6 +244,8 @@ Complete file upload → analysis → chart generation → download workflow:
 - ⬇️ Downloads all files to local filesystem
 
 **Output:** 4 beautiful visualizations saved to `output_charts/`
+
+![Data Visualization Pipeline Demo](https://raw.githubusercontent.com/Cognitora/Integration-Example-OpenAI-Agents-SDK/main/screencast/demo6.gif)
 
 ---
 
