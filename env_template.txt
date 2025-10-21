@@ -1,0 +1,11 @@
+# Copy this file to .env and fill in your actual API keys
+# Command: cp env_template.txt .env
+
+# OpenAI API Key (required)
+# Get yours at: https://platform.openai.com/api-keys
+OPENAI_API_KEY=sk-your-openai-api-key-here
+
+# Cognitora API Key (required)
+# Sign up and get yours at: https://www.cognitora.dev/home/api-keys
+COGNITORA_API_KEY=cgk-your-cognitora-api-key-here
+
